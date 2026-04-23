@@ -50,6 +50,14 @@ Meet@School gives staff a private dashboard to create schedules, generate appoin
 - Integrated Resend for booking lifecycle emails and added a Supabase Edge Function for scheduled reminders.
 - Built the interface to work cleanly across desktop and mobile.
 
+## Mobile Experience
+
+The public family-facing flow was designed to work cleanly on phones as well as desktop, reducing friction for families who prefer to complete booking and follow-up actions from a mobile device.
+
+| Landing page | Booking flow | Manage booking |
+| --- | --- | --- |
+| ![Mobile homepage](docs/media/mobile/homepage.png) | ![Mobile booking flow](docs/media/mobile/parent_signup.png) | ![Mobile booking management](docs/media/mobile/parent_signedup.png) |
+
 ## Screenshots
 
 ![Teacher dashboard](docs/media/teacher_dashboard.png)
